@@ -1,1 +1,402 @@
-
+[
+    {
+        "name": "Adobe Firefly",
+        "category": "editor",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/adobe.png",
+        "description": "AI magic transforms ideas into visuals effortlessly. Firefly ignites creativity!",
+        "id": "0001"
+    },
+    {
+        "name": "Sora",
+        "category": "videogen",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/sora.png",
+        "description": "Hyper realistic User text prompt to video Generator AI {Under training stage}.",
+        "id": "0002"
+    },
+    {
+        "name": "Midjourney",
+        "category": "imagine-creation",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/midjourney.jpeg",
+        "description": "User prompts to craft stunning, personalized images, bringing imagination to life.",
+        "id": "0003"
+    },
+    {
+        "name": "ChatGPT",
+        "category": "chatbot",
+        "link": "https://chat.openai.com",
+        "logo": "https://cdn.oaistatic.com/_next/static/media/apple-touch-icon.82af6fe1.png",
+        "description": "Boosts learning, productivity, business, and coding, problem-solving conversations.",
+        "id": "0004"
+    },
+    {
+        "name": "Gemini",
+        "category": "chatbot",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/bardai.png",
+        "description": "Assistant bot, All types of knowledge it have, Natural conversation like human",
+        "id": "0005"
+    },
+    {
+        "name": "Agent GPT",
+        "category": "chatbot",
+        "link": "https://agentgpt.reworkd.ai/",
+        "logo": "/AIstore/Image/Applogo/agentgpt.jpg",
+        "description": "AgentGPT allows you to configure and deploy Autonomous AI agents.",
+        "id": "0006"
+    },
+    {
+        "name": "Black Box AI",
+        "category": "chatbot",
+        "link": "https://www.blackbox.ai/",
+        "logo": "/AIstore/Image/Applogo/blackbox.jpeg",
+        "description": "For Coder, Implement your thinking to code, Help for coder",
+        "id": "0007"
+    },
+    {
+        "name": "Canva",
+        "category": "editor",
+        "link": "https://www.canva.com/",
+        "logo": "https://static.canva.com/static/images/favicon-1.ico",
+        "description": "Graphic design, Animation video create, All template Available",
+        "id": "0008"
+    },
+    {
+        "name": "Mix AI",
+        "category": "chatbot",
+        "link": "https://www.usemix.ai",
+        "logo": "",
+        "description": "Thinking to html css js code for website front end development",
+        "id": "0009"
+    },
+    {
+        "name": "Synthesia",
+        "category": "videogen",
+        "link": "",
+        "logo": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/664f0f482fa5a4d527d892bc_Favicon-Web-Security%201.png",
+        "description": "Prompt or script to Video Generator",
+        "id": "0010"
+    },
+    {
+        "name": "Deep Brain AI",
+        "category": "videogen",
+        "link": "https://www.deepbrain.io/",
+        "logo": "/AIstore/Image/Applogo/deepbrain.jpeg",
+        "description": "Generate your video just type your prompt",
+        "id": "0011"
+    },
+    {
+        "name": "InVideo",
+        "category": "videogen",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/invideo.jpeg",
+        "description": "Create videos with text prompts|Turn any idea to video, instantly.",
+        "id": "0012"
+    },
+    {
+        "name": "HeyGen",
+        "category": "videogen",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/heygen.jpeg",
+        "description": "Create videos with text prompts|Turn any idea to video, instantly",
+        "id": "0013"
+    },
+    {
+        "name": "Veed.io",
+        "category": "videogen",
+        "link": "",
+        "logo": "",
+        "description": "",
+        "id": "0014"
+    },
+    {
+        "name": "Fliki",
+        "category": "videogen",
+        "link": "",
+        "logo": "",
+        "description": "",
+        "id": "0015"
+    },
+    {
+        "name": "Colossyan",
+        "category": "videogen",
+        "link": "",
+        "logo": "",
+        "description": "",
+        "id": "0016"
+    },
+    {
+        "name": "Elai.io",
+        "category": "videogen",
+        "link": "",
+        "logo": "/AIstore/Image/Applogo/elai.png",
+        "description": "",
+        "id": "0017"
+    },
+    {
+        "name": "Pictory",
+        "category": "videogen",
+        "link": "",
+        "logo": "",
+        "description": "",
+        "id": "0018"
+    },
+    {
+        "name": "Synthesys",
+        "category": "videogen",
+        "link": "",
+        "logo": "",
+        "description": "",
+        "id": "0019"
+    },
+    {
+        "name": "Venturekit",
+        "category": "businessconsultant",
+        "link": "https://www.venturekit.ai/",
+        "logo": "",
+        "description": "Your business plan Consultant. Help you to make success your business",
+        "id": "0020"
+    },
+    {
+        "name": "Slidesgo",
+        "category": "ppt",
+        "link": "https://slidesgo.com/ai-presentations",
+        "logo": "",
+        "description": "Presentation Maker, Chitki mein presentation banao",
+        "id": "0021"
+    },
+    {
+        "name": "Formx ai",
+        "category": "excel",
+        "link": "https://www.formx.ai/tools/image-to-excel-converter",
+        "logo": "",
+        "description": "Auto convert image to Excel, in one click",
+        "id": "0022"
+    },
+    {
+        "name": "Myjotbot",
+        "category": "chatbot",
+        "link": "https://myjotbot.com/",
+        "logo": "/AIstore/Image/Applogo/myjotbot.jpg",
+        "description": "Assistant for Students, Helper to do",
+        "id": "0023"
+    },
+    {
+        "name": "Soul Machines",
+        "category": "",
+        "link": "https://www.soulmachines.com/creator-tools/",
+        "logo": "",
+        "description": "Talk with AI",
+        "id": "0024"
+    },
+    {
+        "name": "Magnific",
+        "category": "videogen",
+        "link": "https://magnific.ai/",
+        "logo": "",
+        "description": "Image Upscaler and Enhancer",
+        "id": "0025"
+    },
+    {
+        "name": "Kartiv",
+        "category": "videogen",
+        "link": "https://www.kartiv.com/",
+        "logo": "",
+        "description": "Graphic design for product, imagine design, just prompt it",
+        "id": "0026"
+    },
+    {
+        "name": "Imagine Meta",
+        "category": "videogen",
+        "link": "https://imagine.meta.com",
+        "logo": "",
+        "description": "Imagine to reality, prompt to Image generator",
+        "id": "0027"
+    },
+    {
+        "name": "Pika art",
+        "category": "videogen",
+        "link": "https://pika.art/",
+        "logo": "",
+        "description": "Create amazing videos with Pika Labs AI-powered Text-to-Video platform.",
+        "id": "0028"
+    },
+    {
+        "name": "Krea ai",
+        "category": "videogen",
+        "link": "https://www.krea.ai",
+        "logo": "",
+        "description": "",
+        "id": "0029"
+    },
+    {
+        "name": "RunwayML",
+        "category": "videogen",
+        "link": "https://runwayml.com",
+        "logo": "https://runwayml.com/icons/apple-touch-icon.png",
+        "description": "Image to Motion Video generator",
+        "id": "0030"
+    },
+    {
+        "name": "Seona",
+        "category": "videogen",
+        "link": "https://seona.usestyle.ai/",
+        "logo": "",
+        "description": "Search Engine Optimisation Grower AI, enhancer SEO for Website",
+        "id": "0031"
+    },
+    {
+        "name": "Stability AI",
+        "category": "videogen",
+        "link": "https://stability.ai/",
+        "logo": "",
+        "description": "Image to video generator AI",
+        "id": "0032"
+    },
+    {
+        "name": "Edrawmind",
+        "category": "videogen",
+        "link": "https://www.edrawmind.com/ai-mind-map.html",
+        "logo": "",
+        "description": "Mind idea to visual organiser AI",
+        "id": "0033"
+    },
+    {
+        "name": "Steve ai",
+        "category": "videogen",
+        "link": "https://www.steve.ai/",
+        "logo": "",
+        "description": "Script to video generator",
+        "id": "0034"
+    },
+    {
+        "name": "Deal ai",
+        "category": "videogen",
+        "link": "https://deal.ai",
+        "logo": "",
+        "description": "Marketing AI automate task",
+        "id": "0035"
+    },
+    {
+        "name": "Copilot",
+        "category": "videogen",
+        "link": "https://copilot.microsoft.com/",
+        "logo": "https://copilot.microsoft.com/sa/simg/favicon-cplt.ico",
+        "description": "Can help you learn, create, and explore new things. 🤖",
+        "id": "0036"
+    },
+    {
+        "name": "Submagic",
+        "category": "",
+        "link": "https://www.submagic.co/",
+        "logo": "",
+        "description": "Make your short videos more captivating with Captions, B-Rolls, Zooms and Sound Effects.",
+        "id": "0037"
+    },
+    {
+        "name": "Vmod",
+        "category": "",
+        "link": "https://vmod.xyz/fabricator-generative-ai",
+        "logo": "",
+        "description": "Fabricator crafts stylish 3D clothing designs with precision technology.",
+        "id": "0038"
+    },
+    {
+        "name": "Claude",
+        "category": "",
+        "link": "https://claude.ai",
+        "logo": "",
+        "description": "Assistant chatbot, Ask anything that in your mind",
+        "id": "0039"
+    },
+    {
+        "name": "Themetavoice",
+        "category": "",
+        "link": "https://themetavoice.xyz/",
+        "logo": "",
+        "description": "Voice changer upload your sound and make to natural different tune",
+        "id": "0040"
+    },
+    {
+        "name": "Isenhub",
+        "category": "",
+        "link": "https://isensehub.ai/",
+        "logo": "",
+        "description": "All in one",
+        "id": "0041"
+    },
+    {
+        "name": "DoctransGPT",
+        "category": "",
+        "link": "https://doctransgpt.com/",
+        "logo": "",
+        "description": "Translate various languages pdf document to desired language",
+        "id": "0042"
+    },
+    {
+        "name": "Sintra",
+        "category": "",
+        "link": "https://sintra.ai/",
+        "logo": "",
+        "description": "Connect with social media, will auto manage, auto blog writer for SEO",
+        "id": "0043"
+    },
+    {
+        "name": "Flux",
+        "category": "",
+        "link": "https://www.flux.ai/",
+        "logo": "",
+        "description": "Connect and design Hardware parts with flux AI",
+        "id": "0044"
+    },
+    {
+        "name": "Kaiber",
+        "category": "",
+        "link": "https://kaiber.ai/",
+        "logo": "",
+        "description": "Turn text, videos, photos, and music into stunning videos",
+        "id": "0045"
+    },
+    {
+        "name": "Asksia",
+        "category": "",
+        "link": "https://www.asksia.ai/",
+        "logo": "",
+        "description": "AI Assistant Educator, Solve all questions",
+        "id": "0046"
+    },
+    {
+        "name": "Suno",
+        "category": "",
+        "link": "https://app.suno.ai/",
+        "logo": "",
+        "description": "Lyrics to Song generator || prompt to song",
+        "id": "0047"
+    },
+    {
+        "name": "Decohere",
+        "category": "",
+        "link": "https://www.decohere.ai/",
+        "logo": "",
+        "description": "Prompt video",
+        "id": "0048"
+    },
+    {
+        "name": "Bing AI",
+        "category": "",
+        "link": "https://www.bing.com/images/create",
+        "logo": "",
+        "description": "Image Creator using DALL-E 3",
+        "id": "0049"
+    },
+    {
+        "name": "Feather",
+        "category": "",
+        "link": "https://app.feather-ai.io/",
+        "logo": "",
+        "description": "Blog Article writer AI",
+        "id": "0050"
+    }
+]
