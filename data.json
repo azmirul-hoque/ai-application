@@ -19,7 +19,7 @@
         "name": "Midjourney",
         "category": "imagine-creation",
         "link": "",
-        "logo": "/AIstore/Image/Applogo/midjourney.jpeg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Midjourney_Emblem.png/900px-Midjourney_Emblem.png",
         "description": "User prompts to craft stunning, personalized images, bringing imagination to life.",
         "id": "0003"
     },
@@ -35,7 +35,7 @@
         "name": "Gemini",
         "category": "chatbot",
         "link": "",
-        "logo": "/AIstore/Image/Applogo/bardai.png",
+        "logo": "https://static.vecteezy.com/system/resources/previews/046/861/646/non_2x/gemini-icon-on-a-transparent-background-free-png.png",
         "description": "Assistant bot, All types of knowledge it have, Natural conversation like human",
         "id": "0005"
     },
@@ -43,7 +43,7 @@
         "name": "Agent GPT",
         "category": "chatbot",
         "link": "https://agentgpt.reworkd.ai/",
-        "logo": "/AIstore/Image/Applogo/agentgpt.jpg",
+        "logo": "https://agentgpt.reworkd.ai/logos/dark-default-solid.svg",
         "description": "AgentGPT allows you to configure and deploy Autonomous AI agents.",
         "id": "0006"
     },
@@ -83,7 +83,7 @@
         "name": "Deep Brain AI",
         "category": "videogen",
         "link": "https://www.deepbrain.io/",
-        "logo": "/AIstore/Image/Applogo/deepbrain.jpeg",
+        "logo": "https://cdn.prod.website-files.com/644238b1cf656a0846763003/64ae7ab4419310d4743c590c_3.webp",
         "description": "Generate your video just type your prompt",
         "id": "0011"
     },
@@ -91,7 +91,7 @@
         "name": "InVideo",
         "category": "videogen",
         "link": "",
-        "logo": "/AIstore/Image/Applogo/invideo.jpeg",
+        "logo": "https://cdn.prod.website-files.com/660fe41b3edb226d8dabd311/667bce987cf04b00f84c4e45_image.png",
         "description": "Create videos with text prompts|Turn any idea to video, instantly.",
         "id": "0012"
     },
@@ -99,15 +99,15 @@
         "name": "HeyGen",
         "category": "videogen",
         "link": "",
-        "logo": "/AIstore/Image/Applogo/heygen.jpeg",
+        "logo": "https://i0.wp.com/whatisai.co.uk/wp-content/uploads/2024/04/what-is-heygen-ai.webp",
         "description": "Create videos with text prompts|Turn any idea to video, instantly",
         "id": "0013"
     },
     {
         "name": "Veed.io",
         "category": "videogen",
-        "link": "",
-        "logo": "",
+        "link": "https://www.veed.io",
+        "logo": "https://cdn.dribbble.com/users/142973/screenshots/14435722/veedio__aryana_shakibaei_.png",
         "description": "",
         "id": "0014"
     },
