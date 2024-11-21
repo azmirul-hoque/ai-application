@@ -2,8 +2,8 @@
     {
         "name": "Adobe Firefly",
         "category": "editor",
-        "link": "",
-        "logo": "/AIstore/Image/Applogo/adobe.png",
+        "link": "https://www.adobe.com/in/products/firefly.html",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6krWxzENaXuz4YmDVBN3gdfqiIbIRtBIzw&s",
         "description": "AI magic transforms ideas into visuals effortlessly. Firefly ignites creativity!",
         "id": "0001"
     },
@@ -11,7 +11,7 @@
         "name": "Sora",
         "category": "videogen",
         "link": "",
-        "logo": "/AIstore/Image/Applogo/sora.png",
+        "logo": "https://d4.alternativeto.net/Yx_ZE68LDw_Apv9ozzG1ppMchrtoJrVwwT6Gs7O8YPg/rs:fit:280:280:0/g:ce:0:0/exar:1/YWJzOi8vZGlzdC9pY29ucy9zb3JhLTFfMjI3NjA1LnBuZw.png",
         "description": "Hyper realistic User text prompt to video Generator AI {Under training stage}.",
         "id": "0002"
     },
